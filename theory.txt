@@ -8,3 +8,15 @@ what’s the disadvantages you need to overcome to finish you goal?
   ans:电脑配置太低,时间太少,相关理论知识太匮乏
 How will you plan to study in this course period?
   ans:固定时间8:30pm~11.30pm练习课堂代码,其他时间挤出来学习理论知识:统计学习方法,线代,概率,微积分
+  
+0. auto-drive,face recognition,intelligent voice 
+1.Github is a code hosting platform for collaboration and version control.It lets us work together on projects.Jupyter Notebook is an open source web application that allows us to create and share documents that contain live code,equations,visualizations and narrative text.
+Pycharm is an IDE used in computer programming,especially for python language.
+2.Probability model is a mathematical representation of an random phenomenon 
+3.
+4.
+5.
+6.
+7.
+8.
+9.2-gram models,called 
