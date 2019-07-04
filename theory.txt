@@ -13,10 +13,10 @@ How will you plan to study in this course period?
 1.Github is a code hosting platform for collaboration and version control.It lets us work together on projects.Jupyter Notebook is an open source web application that allows us to create and share documents that contain live code,equations,visualizations and narrative text.
 Pycharm is an IDE used in computer programming,especially for python language.
 2.Probability model is a mathematical representation of an random phenomenon 
-3.
-4.
-5.
-6.
-7.
-8.
-9.2-gram models,called 
+3.文本分类,机器翻译
+4.使用概率模型可以增加可靠性,难点在于文本大的时候,计算量过大.
+5.从机器学习的角度上说,语言模型就是对语句概率分布的建模,即判断一个语言序列是否正常
+6.文本纠错
+7.1-gram模型假设的是单词之间是独立的,出现的概率不受上下文干扰
+8.1-gram模型优点是设计简单便于实现,缺点是缺失了语言的灵魂,即相关性
+9.2-gram模型,又叫一阶马尔科夫链,只跟前一个单词出现有关.
