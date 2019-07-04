@@ -1,0 +1,10 @@
+what do you want to acquire in this course？
+  ans:学会NLP的学习方法,如何能够在新领域立足,进阶
+what problems do you want to solve？
+  ans:从0到1
+what’s the advantages you have to finish you goal?
+  ans:好像只有决心了吧
+what’s the disadvantages you need to overcome to finish you goal?
+  ans:电脑配置太低,时间太少,相关理论知识太匮乏
+How will you plan to study in this course period?
+  ans:固定时间8:30pm~11.30pm练习课堂代码,其他时间挤出来学习理论知识:统计学习方法,线代,概率,微积分
