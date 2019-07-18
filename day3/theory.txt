@@ -13,9 +13,13 @@ ans: 动态规划实际上是对搜索问题的剪枝,在某些问题中,使用�
 2. Why do we still need dynamic programming? Why not we train a machine learning to fit a function which could get the `right` answer based on inputs?
 ans:在我的理解中,动态规划更简单,更轻盈,而机器学习更加厚重,繁琐;针对同一个问题,在得到的结果都是一样的情况下,为什么不用更简单的方法呢?(奥卡姆的剃刀)
 3. Can you catch up at least 3 problems which could solved by Dynamic Programming? 
-ans:
+ans:最短路线，资源分配，库存管理
 4. Can you catch up at least 3 problems wich could sloved by Edit Distance? 
-ans:
+ans:拼写纠错，DNA比对，抄袭检测
 5. Please summarize the three main features of Dynamic Programming, and make a concise explain for each feature. 
-ans:1.
+ans:1.最优子结构：整体问题最优解取决于子问题的最优解
+    2.重复子问题：在求解过程中，会重复求解子问题
+    3.无后效性：现在做的决策不会影响以后将要做的决策
 6. What's the disadvantages of Dynamic Programming? (You may need search by yourself in Internet)
+ans:1. 没有统一的标准模型；
+    2. 数值方法求解时存在维数灾。
